@@ -2,7 +2,7 @@
 
 ### Who am I?
 Building software has always been a passion of mine. This is still true after almost 15 years of experience in various environments and business sectors. I've never really considered it work but "problems to solve". Yes, I love puzzles or anything that requires you to turn your head around.
-Passion also means curiosity and hunger for knowledge. I regularly read blogs, articles, and books and practice katas by myself. Some of my favourite authors are Robert C. Martin (aka Uncle Bob) and Mark Seemann. Continuous improvement is a mindset I consider essential.
+Passion also means curiosity and hunger for knowledge. I regularly read blogs, articles, and books and practice katas by myself. Continuous improvement is a mindset I consider essential.
 
 If I had to pick one priority when building a product, I would choose quality. This has always been what I put first. I'm not satisfied when "It Works", it must also be done well. 
 I always tried to improve the team I joined wherever I've been. Whether by providing experience, a fresh eye, ideas, or mentoring younger peers. 
