@@ -1,14 +1,17 @@
 ### Bonjour 👋
 
 ### Who am I?
-Building software has always been a passion of mine. This is still true after almost 15 years of experience in various environments and business sectors. I've never really considered it work but "problems to solve". Yes, I love puzzles or anything that requires you to turn your head around.
-Passion also means curiosity and hunger for knowledge. I regularly read blogs, articles, and books and practice katas by myself. Continuous improvement is a mindset I consider essential.
+I help developers build better software.
+In recent years, I’ve focused on sharing my experience through mentoring, public speaking, and open-source contributions; all aimed at helping teams grow and build sustainable software.
+With nearly 15 years of experience in .NET development, I’ve worked across industries as an engineer, coach, and now developer advocate. My current focus is on developer experience: building SDKs, writing approachable technical content, and speaking at conferences around the world.
 
-If I had to pick one priority when building a product, I would choose quality. This has always been what I put first. I'm not satisfied when "It Works", it must also be done well. 
-I always tried to improve the team I joined wherever I've been. Whether by providing experience, a fresh eye, ideas, or mentoring younger peers. 
-About mentoring, sharing knowledge represents a key aspect of my participation in a team. I do believe that knowledge is useless if you keep it to yourself. We need to use our knowledge to teach and inspire others, the same way others have inspired us.
+At Vonage, I maintained the open-source .NET SDK, represented the company at events, and acted as a bridge between product and developer communities.
 
-Putting this all together, it’s quite clear I advocate Software Craftsmanship. Hearing about this ideology for the first time has been one of the biggest milestones in my career. It is the perfect match for what I consider important in terms of mindset. Since then, I’ve continuously tried to spread the ideology by sharing ideas and methodologies.
+I believe quality isn’t optional. Extreme Programming, Continuous Delivery, and continuous improvement are at the heart of everything I do. I regularly share these values through workshops, mentoring, and public talks, including my recent talk, "Throw Exceptions... Out of Your Codebase".
+
+I’m currently open to opportunities where I can make a positive impact, whether through developer advocacy or engineering, or helping teams grow through mentorship and strong technical practices.
+
+Always happy to connect, learn, and contribute, whether it’s about .NET, DevRel, or Software Craftsmanship.
 
 ### What do I use?
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr00d&layout=compact&theme=gotham)
