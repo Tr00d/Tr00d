@@ -9,8 +9,6 @@ At Vonage, I maintained the open-source .NET SDK, represented the company at eve
 
 I believe quality isn’t optional. Extreme Programming, Continuous Delivery, and continuous improvement are at the heart of everything I do. I regularly share these values through workshops, mentoring, and public talks, including my recent talk, "Throw Exceptions... Out of Your Codebase".
 
-I’m currently open to opportunities where I can make a positive impact, whether through developer advocacy or engineering, or helping teams grow through mentorship and strong technical practices.
-
 Always happy to connect, learn, and contribute, whether it’s about .NET, DevRel, or Software Craftsmanship.
 
 ### What do I use?
